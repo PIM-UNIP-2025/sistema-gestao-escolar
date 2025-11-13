@@ -29,5 +29,6 @@ python main.py
 
 ## 👩‍🏫 Autor
 Matheus Henrique De Oliveira    
-💻 [GitHub](https://github.com/conta-qualquer)
+💻 [GitHub](https://github.com/PIM-UNIP-2025)
+
 
