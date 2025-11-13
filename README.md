@@ -22,12 +22,12 @@ A tabela abaixo descreve os módulos principais do sistema.
 
 | Nº | Módulo | Descrição Detalhada |
 | :---: | :--- | :--- |
-| **1** | 🧑‍🎓 Aluno | Cadastro, atualização e consulta de informações individuais dos estudantes. |
+| **1** | 🧑‍🎓 Aluno | Cadastro, consulta de informações individuais dos estudantes. |
 | **2** | 📚 Turma | Gerenciamento de turmas, incluindo adição/remoção de alunos e professores. |
-| **3** | 📅 Aula | Registro e gerenciamento de aulas, horários e frequência. |
-| **4** | 📝 Atividade | Registro de atividades, atribuição de notas e acompanhamento do desempenho. |
-| **5** | 🤖 IA | **Análise Preditiva e Sugestões Automáticas** de recuperação ou atividades de reforço com base nas notas. |
-| **6** | 📊 Relatório | Geração de **Relatórios de Desempenho e Frequência** (em formatos como PDF ou CSV) para impressão ou arquivamento. |
+| **3** | 📅 Aula | Registro e gerenciamento de aulas. |
+| **4** | 📝 Atividade | Registro de atividades. |
+| **5** | 🤖 IA | **Análise Preditiva e Sugestões Automáticas**. |
+| **6** | 📊 Relatório | Informações Gerais do Sistema. |
 | **7** | 🚪 Sair | Finaliza a execução do programa. |
 
 ### Visualização do Sistema
@@ -70,5 +70,6 @@ Para rodar o projeto em seu ambiente local, siga os passos abaixo.
 * [GitHub](https://github.com/PIM-UNIP-2025)
 
 ---
+
 
 
