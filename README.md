@@ -44,7 +44,7 @@ Para rodar o projeto em seu ambiente local, siga os passos abaixo.
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/PIM-UNIP-2025/sistema-gestao-escolar.git](https://github.com/PIM-UNIP-2025/sistema-gestao-escolar.git)
+    git clone https://github.com/PIM-UNIP-2025/sistema-gestao-escolar.git
     cd sistema-gestao-escolar
     ```
 
@@ -70,6 +70,7 @@ Para rodar o projeto em seu ambiente local, siga os passos abaixo.
 * [GitHub](https://github.com/PIM-UNIP-2025)
 
 ---
+
 
 
 
