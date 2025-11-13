@@ -1,5 +1,5 @@
 # 🏫 Sistema de Gestão Escolar
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![status](https://img.shields.io/badge/status-desenvolvido-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 
 Sistema simples e modular para gerenciamento de alunos, turmas, atividades e relatórios escolares.
@@ -36,3 +36,4 @@ python main.py
 ## 👩‍🏫 Autor
 Matheus Henrique De Oliveira    
 💻 [GitHub](https://github.com/PIM-UNIP-2025)
+
