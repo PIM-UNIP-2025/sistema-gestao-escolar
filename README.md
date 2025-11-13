@@ -59,7 +59,7 @@ Para rodar o projeto em seu ambiente local, siga os passos abaixo.
 ## 3. Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.11
-* **Controle de Versão:** Git / GitHub
+* **Controle de Versão:** GitHub
 
 ---
 
@@ -70,4 +70,5 @@ Para rodar o projeto em seu ambiente local, siga os passos abaixo.
 * [GitHub](https://github.com/PIM-UNIP-2025)
 
 ---
+
 
