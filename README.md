@@ -15,7 +15,7 @@ Sistema simples e modular para gerenciamento de alunos, turmas, atividades e rel
 |----|-------------|----------------------------|
 | 1️⃣ | 👨‍🎓 Aluno      | Cadastro e consulta         |
 | 2️⃣ | 🏫 Turma      | Gerenciamento de turmas     |
-| 3️⃣ | 🧮 Aula       | Controle de frequência       |
+| 3️⃣ | 🧮 Aula       | Gerenciamento de aulas       |
 | 4️⃣ | ✏️ Atividade  | Registro de atividades       |
 | 5️⃣ | 🤖 IA         | Sugestões automáticas        |
 | 6️⃣ | 📊 Relatório  | Geração de relatórios        |
@@ -36,4 +36,5 @@ python main.py
 ## 👩‍🏫 Autor
 Matheus Henrique De Oliveira    
 💻 [GitHub](https://github.com/PIM-UNIP-2025)
+
 
