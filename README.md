@@ -2,7 +2,6 @@
 
 [![Status](https://img.shields.io/badge/status-desenvolvido-blue.svg)](https://github.com/PIM-UNIP-2025/sistema-gestao-escolar)
 [![Python](https://img.shields.io/badge/python-3.11-brightgreen.svg)](https://www.python.org/downloads/release/python-3110/)
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow.svg)](https://github.com/PIM-UNIP-2025/sistema-gestao-escolar/blob/main/LICENSE)
 
 Sistema simples e modular, desenvolvido em Python, para o gerenciamento eficiente de alunos, turmas, atividades e geração de relatórios escolares.
 
@@ -49,13 +48,7 @@ Para rodar o projeto em seu ambiente local, siga os passos abaixo.
     cd sistema-gestao-escolar
     ```
 
-2.  **Instale as Dependências:**
-    O projeto utiliza bibliotecas externas. Certifique-se de que o arquivo `requirements.txt` esteja presente e execute:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Execute o Programa:**
+2.  **Execute o Programa:**
     ```bash
     python main.py
     ```
@@ -77,3 +70,4 @@ Para rodar o projeto em seu ambiente local, siga os passos abaixo.
 * [GitHub](https://github.com/PIM-UNIP-2025)
 
 ---
+
