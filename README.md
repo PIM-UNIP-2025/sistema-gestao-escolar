@@ -21,8 +21,8 @@ Sistema simples e modular para gerenciamento de alunos, turmas, atividades e rel
 
 ## ⚙️ Execução
 ```bash
-git clone https://github.com/conta-qualquer/Pim.git
-cd Pim
+git clone https://github.com/PIM-UNIP-2025/sistema-gestao-escolar.git
+cd sistema-gestao-escolar
 python main.py
 
 ---
@@ -30,3 +30,4 @@ python main.py
 ## 👩‍🏫 Autor
 Matheus Henrique De Oliveira    
 💻 [GitHub](https://github.com/conta-qualquer)
+
